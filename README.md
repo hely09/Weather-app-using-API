@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** for your Weather App project based on your code and structure.
-
----
-
 # 🌦️ Weather App
 
 A simple and responsive Weather Application built using **HTML, CSS, and JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**.
